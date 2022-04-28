@@ -1,4 +1,2 @@
-Account : trial01
-Password : trial
-
-limited data!!
+Account : TEST
+Password : 123456
